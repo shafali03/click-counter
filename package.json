@@ -37,6 +37,7 @@
     ]
   },
   "devDependencies": {
-    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.0"
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.0",
+    "babel-plugin-react-generate-property": "^1.0.5"
   }
 }
