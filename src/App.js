@@ -6,7 +6,7 @@ function App() {
   const [error, setError] = useState(false)
 
   return (
-    <div data-test="component-app">
+    <div className='container' data-test="component-app">
       <h1 data-test="counter-display">
       The counter is currently&nbsp;
         <span data-test='count'>{count}</span>
